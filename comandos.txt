@@ -1,4 +1,7 @@
 
+git init
+inicia um respositorio
+
 git pull --ff-
 verifica se há alguma atualização no projeto 
 (importante utilizar antes de começar 
