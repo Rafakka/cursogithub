@@ -20,4 +20,4 @@ git reset --hard origin/main
 (volta para o ultimo commit)
 
 git push
-envia as mudanças para o githun
+envia as mudanças para o github
