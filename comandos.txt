@@ -28,5 +28,15 @@ envia as mudanças para o github
 git branch
 mostra todas as branches
 
-git branch "nome"
-cria uma branch
+git checkout "nome da branch"
+muda branch que está utilizando
+
+git checkout -b "nome da branch"
+cria a branch e muda para ela de uma vez só
+
+git branch -d "nome da branch"
+deleta a branch
+
+git merge "nome"
+combina uma branch em outra
+
