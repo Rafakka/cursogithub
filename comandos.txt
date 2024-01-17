@@ -1,0 +1,20 @@
+
+git pull --ff-
+verifica se há alguma atualização no projeto 
+(importante utilizar antes de começar 
+a trabalha no projeto)
+
+git status
+mostra status do projeto
+
+git add .
+adiona modificações para serem comitadas
+
+git commit -m "Comentario"
+comita as mudanças para o github
+
+git reset --hard origin/main 
+(volta para o ultimo commit)
+
+git push
+envia as mudanças para o githun
