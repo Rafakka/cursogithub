@@ -27,3 +27,6 @@ envia as mudanças para o github
 
 git branch
 mostra todas as branches
+
+git checkout "nome da branch"
+muda branch que está utilizando
