@@ -24,3 +24,6 @@ da rollback no arquivo selecionado
 
 git push
 envia as mudanças para o github
+
+git branch
+mostra todas as branches
