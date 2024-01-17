@@ -27,3 +27,6 @@ envia as mudanças para o github
 
 git branch
 mostra todas as branches
+
+git branch "nome"
+cria uma branch
