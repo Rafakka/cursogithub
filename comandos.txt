@@ -30,3 +30,6 @@ mostra todas as branches
 
 git checkout "nome da branch"
 muda branch que está utilizando
+
+git checkout -b "nome da branch"
+cria a branch e muda para ela de uma vez só
