@@ -19,5 +19,8 @@ comita as mudanças para o github
 git reset --hard origin/main 
 (volta para o ultimo commit)
 
+git checkout (arquivo)
+da rollback no arquivo selecionado
+
 git push
 envia as mudanças para o github
