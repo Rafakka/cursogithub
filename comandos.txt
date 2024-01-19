@@ -40,3 +40,9 @@ deleta a branch
 git merge "nome"
 combina uma branch em outra
 
+git stash
+armazena temporariamente estado de breach
+
+git stash list
+list os stashs
+
