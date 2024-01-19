@@ -46,12 +46,6 @@ armazena temporariamente estado de breach
 git stash list
 list os stashs
 
-git stash apply (numero do codigo de stash)
-aplica o stash indicado
-
-git stash show -p (numero do codigo de stash)
-mostra o que tem no stash
-
 git stash apply (id do stash)
 volta para um stash salvo especifico
 
@@ -64,3 +58,11 @@ Lista as tags
 git show (codigo de tag)
 mostra o que tem na versão/tag 
 
+git checkou tag
+muda de versão da tag
+
+git push origin v1.0
+envia tag para github
+
+git push origins --tags
+envia todas as tags para o
