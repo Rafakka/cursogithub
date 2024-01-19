@@ -65,4 +65,4 @@ git push origin v1.0
 envia tag para github
 
 git push origins --tags
-envia todas as tags para o
+envia todas as tags para o git hub
