@@ -1,1 +1,4 @@
 First commit ever
+
+#API_LOGIN
+KEY_LOGIN=123123
