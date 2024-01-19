@@ -48,3 +48,6 @@ list os stashs
 
 git stash apply (numero do codigo de stash)
 aplica o stash indicado
+
+git stash show -p (numero do codigo de stash)
+mostra o que tem no stash
