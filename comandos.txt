@@ -39,7 +39,6 @@ deleta a branch
 
 git merge "nome"
 combina uma branch em outra
-<<<<<<< Updated upstream
 
 git stash
 armazena temporariamente estado de breach
@@ -47,5 +46,5 @@ armazena temporariamente estado de breach
 git stash list
 list os stashs
 
-=======
->>>>>>> Stashed changes
+git stash apply (numero do codigo de stash)
+aplica o stash indicado
