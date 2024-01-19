@@ -66,3 +66,7 @@ envia tag para github
 
 git push origins --tags
 envia todas as tags para o git hub
+
+git fetch -a
+esse comando busca branches 
+que foram empurradas, mas não estão no projeto atual
