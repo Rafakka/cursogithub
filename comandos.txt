@@ -51,3 +51,16 @@ aplica o stash indicado
 
 git stash show -p (numero do codigo de stash)
 mostra o que tem no stash
+
+git stash apply (id do stash)
+volta para um stash salvo especifico
+
+git tag -a v1.0 -m "descrição da versão"
+cria um release de versionamento da branch
+
+git tag
+Lista as tags
+
+git show (codigo de tag)
+mostra o que tem na versão/tag 
+
