@@ -20,3 +20,20 @@
 2. Outras Marcações
 3. Paragrafos
 
+> Aprendendo block code
+>
+>Segunda linha
+
+** Comando para rodar projeto:**
+
+```
+npm start
+```
+
+** Exemplo de script:**
+
+```js
+function showName(nome){
+    return 'Bem vindo: ' + name;
+}
+```
