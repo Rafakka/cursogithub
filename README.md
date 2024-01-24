@@ -1,6 +1,8 @@
 
 ![logo](https://cdn-icons-png.flaticon.com/512/4257/4257483.png)
 
+[Bem vindo]()
+
 # Bem vindo 
 
 #### bora aprender mais...
@@ -28,13 +30,13 @@
 >
 >Segunda linha
 
-** Comando para rodar projeto:**
+### Comando para rodar projeto:
 
 ```
 npm start
 ```
 
-** Exemplo de script:**
+**Exemplo de script:**
 
 ```js
 function showName(nome){
@@ -45,7 +47,7 @@ Tabela
 
 Propriedade | Descrição
 ------------|----------
-Nome | Informar nome de usuario
+Nome | Informar nome de **usuario**
 Size | tamanho de campo
-Background | cor de fundo
+Background | _cor_ de fundo
 onPress | função ao apertar
