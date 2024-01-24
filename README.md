@@ -41,3 +41,11 @@ function showName(nome){
     return 'Bem vindo: ' + name;
 }
 ```
+Tabela
+
+Propriedade | Descrição
+------------|----------
+Nome | Informar nome de usuario
+Size | tamanho de campo
+Background | cor de fundo
+onPress | função ao apertar
