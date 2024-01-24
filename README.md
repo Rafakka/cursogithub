@@ -5,6 +5,10 @@
 
 #### bora aprender mais...
 
+- [ ] login
+- [x] Read me feito
+- [ ] Projeto arredondado
+
 ## Modulos:
 
 * Comandos Git
