@@ -14,5 +14,9 @@
 * Issues Git
 
 1. Marcações
-2. Lista ordenadas
-3. Lista ordenadas
+    1. Listas
+    2. Ordenadas
+    3. Numeradas
+2. Outras Marcações
+3. Paragrafos
+
